@@ -4,8 +4,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-main {
-  padding: 10px;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 /* utility */
