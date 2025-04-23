@@ -53,3 +53,16 @@ table {
   border-collapse: collapse;
   text-align: left;
 }
+
+.aside_purple {
+  background-image: url(../img/monitor.jpg);
+  height: 200px;
+  width: 300px;
+  background-size: cover;
+}
+.aside_black {
+  background-image: url(../img/graph.jpg);
+  height: 200px;
+  width: 300px;
+  background-size: cover;
+}
