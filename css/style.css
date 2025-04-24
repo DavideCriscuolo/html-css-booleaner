@@ -36,8 +36,8 @@ main {
 .bg_light-blue {
   background-color: rgb(177, 229, 242);
 }
-.w_300 {
-  width: 300px;
+.w_50 {
+  width: 50%;
 }
 
 .marg-15 {
