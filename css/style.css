@@ -57,7 +57,7 @@ header {
 }
 #logo {
   height: 50%;
-  min-width: 1620px;
+
   vertical-align: middle;
 }
 
@@ -72,6 +72,10 @@ header {
 .date_size {
   font-size: 10px;
   font-weight: 600;
+}
+
+.img_art img {
+  max-width: 100%;
 }
 
 .desc_img {
